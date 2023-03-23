@@ -103,7 +103,7 @@ Clone this repository to your desired folder:
 Example commands:
 
   <p>cd my-folder </p>
-  <p>git clone git@github.com:myaccount/my-project.git</p>
+  <p>git clone https://github.com/ibugithub/Hello-Microverse</p>
 
 
 ### Install
