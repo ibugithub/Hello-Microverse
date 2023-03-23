@@ -94,18 +94,11 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+<p> just open the index.html file in the browser </p>
 
 ### Setup
 
 Clone this repository to your desired folder:
-
 
 Example commands:
 
@@ -117,50 +110,30 @@ Example commands:
 
 Install this project with:
 
-<!--
-Example command:
+ <p>No special installtion needed</p>
 
-```sh
-  cd my-project
-  gem install
-```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+<p> just open the index.html file in the browser</p>
 
-```sh
-  rails server
-```
---->
+
 
 ### Run tests
 
 To run tests, run the following command:
+<p> you can test the project by the browser's developer mode </p>
 
-<!--
-Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
 
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,9 +154,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Home Page]**
+- [ ] **[Side bar]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,21 +188,6 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
