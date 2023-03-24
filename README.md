@@ -66,8 +66,11 @@ In order to run this project you need:
 ### Setup
 Clone this repository to your desired folder:
 Example commands:
-  <p>cd my-folder </p>
-  <p>git clone https://github.com/ibugithub/Hello-Microverse</p>
+  
+  ```
+    cd my-folder 
+    git clone https://github.com/ibugithub/Hello-Microverse
+  ```
 
 
 ### Install
@@ -88,7 +91,7 @@ To run tests, run the following command:
 
 ### Deployment
 You can deploy this project using:
-Any Browser
+<p>Any Browser</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
